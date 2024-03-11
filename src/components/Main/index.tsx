@@ -1,6 +1,6 @@
 
 
-function main() {
+function Main() {
     return(
         <>
         이제 진짜 시작
@@ -8,4 +8,4 @@ function main() {
     )
 }
 
-export default main;
+export default Main;
