@@ -1,11 +1,16 @@
 
 
 function Main() {
+    const main2 = () =>{
+        location.href="";
+    }
+
     return(
         <>
-        이제 진짜 시작
-        오늘도 커밋!!
-        출첵~
+            <div>
+                main 화면
+            </div>
+            <button onClick={main2}>이동하기 </button>
         </>
     )
 }
